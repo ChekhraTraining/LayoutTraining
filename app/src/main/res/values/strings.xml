@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayoutTraining</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_layout">Linear Layout</string>
+    <string name="title_activity_relative_layout">Relative Layout</string>
+    <string name="title_activity_table_layout">Table Layout</string>
+    <string name="title_activity_grid_layout">Grid Layout</string>
+    <string name="title_activity_tab_layout">Tab Layout</string>
+    <string name="title_activity_tab1">Food</string>
+    <string name="title_activity_test">Test Activity</string>
+</resources>
